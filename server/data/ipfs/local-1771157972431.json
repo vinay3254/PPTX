@@ -1,0 +1,80 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "Slide 1",
+      "content": "Click to add content",
+      "background": "#ffffff",
+      "textColor": "#000000",
+      "layout": "title-content",
+      "elements": []
+    },
+    {
+      "id": 1771132430745,
+      "title": "Slide 2",
+      "content": "Click to add content",
+      "background": "#1a1a1a",
+      "textColor": "#ffffff",
+      "layout": "blank",
+      "elements": []
+    },
+    {
+      "id": 1771140890305,
+      "title": "Slide 3",
+      "content": "Click to add content",
+      "background": "#ffffff",
+      "textColor": "#000000",
+      "layout": "title-content",
+      "elements": []
+    },
+    {
+      "id": 1771140891769,
+      "title": "Slide 4",
+      "content": "Click to add content",
+      "background": "#ffffff",
+      "textColor": "#000000",
+      "layout": "title-content",
+      "elements": []
+    },
+    {
+      "id": 1771140892512,
+      "title": "Slide 5",
+      "content": "Click to add content",
+      "background": "#ffffff",
+      "textColor": "#000000",
+      "layout": "title-content",
+      "elements": []
+    },
+    {
+      "id": 1771148670062,
+      "title": "Slide 6",
+      "content": "Click to add content",
+      "background": "#ffffff",
+      "textColor": "#000000",
+      "layout": "title-content",
+      "elements": []
+    }
+  ],
+  "presentationMeta": {
+    "title": "Untitled",
+    "author": "",
+    "createdAt": "2026-02-14T05:47:59.948Z",
+    "updatedAt": "2026-02-15T08:26:22.152Z",
+    "slideSize": "16:9",
+    "themePreset": "default",
+    "variant": "dark",
+    "header": {
+      "default": "",
+      "first": "",
+      "even": "",
+      "odd": ""
+    },
+    "footer": {
+      "default": "",
+      "first": "",
+      "even": "",
+      "odd": ""
+    }
+  },
+  "savedAt": "2026-02-15T12:19:32.427Z"
+}
