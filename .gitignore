@@ -1,0 +1,67 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+.next/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.log
+*.tmp
+*.temp
+
+# Auto-generated gitignore
+__pycache__/
+.venv/
+venv/
+.python*/
+*.pyc
+*.pyo
+*.pyd
+.cache/
+target/
+.superpowers/
+.qodo/
+cache/
+file-history/
+telemetry/
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+*.mp4
+*.mov
+*.mkv
+*.iso
+*.db
+*.sqlite

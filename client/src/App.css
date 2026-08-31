@@ -1,0 +1,13 @@
+/* App component styles */
+.app {
+  padding: 20px;
+}
+
+h1 {
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+p {
+  color: #666;
+}
